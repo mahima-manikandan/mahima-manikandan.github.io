@@ -15,16 +15,15 @@ img{
     background-color: rgb(134, 90, 154);
  border: 2px solid rgb(224, 165, 252)ck;
     border-bottom: 3px solid black;
-
- height: 50%;
- text-align: center;
+    height: 1015px;
+     text-align: center;
  
 }
 .p1 h2{
     color: white;
 }
 .contact img{
-    width: 40px;
+    width: 2px;
     height: 30px;
     
 }
@@ -86,5 +85,10 @@ color: black;
 }
 h1{
     color: black;
+}
+#logo
+{
+    width: 30px;
+    height: 30px;
 }
 

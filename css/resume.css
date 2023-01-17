@@ -1,0 +1,90 @@
+img{
+    width: 6em;
+    height: 7em;
+    position: relative;
+   left: 10px;
+   top: 20px;
+   border-radius: 50px;
+  border: 3px rgb(244, 244, 244) solid;
+   
+  
+    
+}
+.p1
+{
+    background-color: rgb(134, 90, 154);
+ border: 2px solid rgb(224, 165, 252)ck;
+    border-bottom: 3px solid black;
+
+ height: 50%;
+ text-align: center;
+ 
+}
+.p1 h2{
+    color: white;
+}
+.contact img{
+    width: 40px;
+    height: 30px;
+    
+}
+.contact{
+    background-color: rgb(134, 90, 154) ;
+    border: 2px solid rgb(134, 90, 154);
+    width: 220px;
+    height: 700px;
+}
+.main
+{
+    display: flex;
+flex-direction: row;
+
+}
+.main
+{
+    position: relative;
+    top:60px;
+    background-color:  rgb(221, 209, 227);
+    /* background-image: url("../image/background.jpg");
+    background-repeat: no-repeat;
+     */
+    border-left: 0px solid rgb(134, 90, 154);
+    padding: 3px;
+    margin-right: 0px;
+    height: 100%;
+    width: 80%;
+  
+    /* width: 100%;
+     */
+
+}
+/* *
+{
+    margin: 0;
+    padding: 10px;
+} */
+body{
+    background-color:  rgb(142, 139, 144)
+}
+h4,h2,h3{
+    color: white;
+}
+.main2 h3,h2{
+    color: black;
+}
+label
+{
+    color: white;
+}
+.last
+{
+    padding: 20px;
+border: 2px solid rgb(203, 155, 155);
+width: 80%;
+background-color:solid rgb(134, 90, 154)
+color: black;
+}
+h1{
+    color: black;
+}
+
